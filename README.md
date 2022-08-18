@@ -1,9 +1,9 @@
 # CLI Rock Paper Scissor
 
 A small project for JS101 at Launch School.
-- game.js -> the game engine is
-- helper.js -> helper functions unrelated to game play
-- messages.json -> all the copy for the game 
+- game.js is the game engine
+- helper.js is a collection of helper functions
+- messages.json is the copy for the game 
 
 To play:
 
