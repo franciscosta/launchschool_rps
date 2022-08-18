@@ -1,0 +1,36 @@
+{
+  "divider": "",
+
+  "info": {
+    "welcome": "[+] Greetings friend!",
+    "whatGame": "[+] You're in for a nerdy rock paper and scissor game.",
+    "information": "[+] Take a deep breath and get started."
+  },
+
+  "question": {
+    "howManyRounds": "[?] How many rounds would like you to play? ",
+    "playRound": "[?] Ready to play the round?",
+    "choices": "[?] Choose rock, paper, scissor, lizard, or spock: ",
+    "playAgain": "[?] Would you like to play another game?"
+  },
+
+  "warning": {
+    "confirm": "[x] Do you mean scissor or spock? Just spell it out... ",
+    "invalid": "[x] That's not a valid option.",
+    "invalidRound": "[x] Please keep it between 0 and 10."
+  },
+
+  "round": {
+    "user": "    You chose: ",
+    "computer": "    The computer chose: ",
+    "roundWinner": "    The round's winner: ",
+    "roundTie": "    This round was a tie.",
+    "roundScore": "    Score: ",
+    "currentRound": "    Round: "
+  },
+
+  "game": {
+    "tie": "[x] Unfortunately, no one won the game – you tied.",
+    "win": "[+] The grand winner is: "
+  }
+}
